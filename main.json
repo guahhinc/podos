@@ -1,0 +1,22 @@
+{
+  "repository": "podget",
+  "version": "1.0.0",
+  "apps": [
+    {
+      "id": "snake",
+      "name": "Snake",
+      "version": "1.0.0",
+      "description": "Classic retro Snake game for Cardputer ADV",
+      "files": [
+        {
+          "remote": "https://raw.githubusercontent.com/guahhinc/podos/main/snake/snake.h",
+          "local": "/apps/snake.h"
+        },
+        {
+          "remote": "https://raw.githubusercontent.com/guahhinc/podos/main/snake/snake.cpp",
+          "local": "/apps/snake.cpp"
+        }
+      ]
+    }
+  ]
+}
