@@ -1,12 +1,12 @@
 {
-  "repository": "podget",
-  "version": "1.0.0",
+  "repository": "podstore",
+  "version": "1.0.2",
   "apps": [
     {
       "id": "snake",
       "name": "Snake",
       "version": "1.0.1",
-      "description": "Classic retro Snake game for Cardputer ADV",
+      "description": "Snake game for podOS",
       "files": [
         {
           "remote": "https://raw.githubusercontent.com/guahhinc/podos/main/snake/snake.h",
