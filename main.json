@@ -9,8 +9,20 @@
       "description": "Dynamic Snake game script for podOS",
       "files": [
         {
-          "remote": "https://raw.githubusercontent.com/guahhinc/podos/main/snake/snake.js",
+          "remote": "https://raw.githubusercontent.com/guahhinc/podos/main/snake.js",
           "local": "/apps/snake.js"
+        }
+      ]
+    },
+    {
+      "id": "calc",
+      "name": "Calc",
+      "version": "1.0.0",
+      "description": "Just a calculator",
+      "files": [
+        {
+          "remote": "https://raw.githubusercontent.com/guahhinc/podos/main/calc.js",
+          "local": "/apps/calc.js"
         }
       ]
     }
