@@ -5,16 +5,12 @@
     {
       "id": "snake",
       "name": "Snake",
-      "version": "1.0.1",
-      "description": "Snake game for podOS",
+      "version": "1.0.2",
+      "description": "Dynamic Snake game script for podOS",
       "files": [
         {
-          "remote": "https://raw.githubusercontent.com/guahhinc/podos/main/snake/snake.h",
-          "local": "/apps/snake.h"
-        },
-        {
-          "remote": "https://raw.githubusercontent.com/guahhinc/podos/main/snake/snake.cpp",
-          "local": "/apps/snake.cpp"
+          "remote": "https://raw.githubusercontent.com/guahhinc/podos/main/snake/snake.js",
+          "local": "/apps/snake.js"
         }
       ]
     }
