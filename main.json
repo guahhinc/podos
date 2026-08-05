@@ -5,7 +5,7 @@
     {
       "id": "snake",
       "name": "Snake",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Classic retro Snake game for Cardputer ADV",
       "files": [
         {
